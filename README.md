@@ -1,4 +1,4 @@
-# PracticasAndroid-1-
+# PracticasAndroid1-
 Inicio de la serie de repositorios de algunas prácticas realizadas en Android Studio en el 2018.
 
 En el archivo llamado 4f_50_PUC_Prácticas 12 a 20.pdf se encuentra la documentación correspondiente a cada código los cuales fueron creados en el 2018, 
